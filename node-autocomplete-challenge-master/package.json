@@ -1,0 +1,20 @@
+{
+  "name": "node-search-challenge",
+  "version": "1.0.0",
+  "description": "Inkling Node.js Code Challenge",
+  "main": "src/index.js",
+  "author": "Inkling",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "test": "jest -o --watch",
+    "start": "nodemon"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1",
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "server": "^1.0.4"
+  }
+}

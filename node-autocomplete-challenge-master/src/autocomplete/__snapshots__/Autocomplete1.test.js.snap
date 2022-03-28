@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Autocomplete1 should perform a case sensitive contains search 1`] = `
+Object {
+  "attribution": "Marjorie Kelly Cowan",
+  "briefDescription": "",
+  "chapterPrice": 7.99,
+  "copyrightYear": 2011,
+  "description": "Get to know the smallest of organisms up close and personal with Cowan’s Microbiology on Inkling. Spin dozens of 3D molecules on their axes, watch more than 80 animations of various processes and explore more than 100 enhanced figures, all exclusive to Inkling.",
+  "edition": "3rd edition",
+  "price": 129.99,
+  "primaryCategory": "Science",
+  "publisher": "McGraw-Hill",
+  "subCategories": Array [],
+  "subtitle": "A Systems Approach",
+  "thumbnail": "data/thumbnails/book-10.jpeg",
+  "title": "Microbiology",
+  "url": "https://www.inkling.com/store/book/microbiology-marjorie-kelly-cowan-3rd/",
+}
+`;
